@@ -1,0 +1,22 @@
+.square_container {
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+}
+
+.square_circle {
+    border-radius: 110px;
+    border: 1px solid red;
+    background-color: red;
+    height: 100%;
+    width: 100%;
+}
+
+.shadow_circle {
+    border-radius: 110px;
+    border: 1px solid red;
+    background-color: red;
+    height: 100%;
+    width: 100%;
+    opacity: 0.5;
+}
